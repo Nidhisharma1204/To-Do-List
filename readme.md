@@ -10,7 +10,7 @@ Perform CRUD operations in a relational database.
 Write clean and modular Java code for database-driven apps.
 
 
-Tech Stack
+Tech Stack-
 
 Language: Java
 
@@ -20,7 +20,7 @@ Driver: JDBC (PostgreSQL Driver)
 
 IDE: IntelliJ IDEA
 
-Features
+Features-
 
 ✅ Add a new task
 
